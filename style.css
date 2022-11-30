@@ -1,0 +1,11 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:greenyellow;
+}
+a{
+    text-decoration: none;
+}
+
+.card{
+    background-image: url('https://images.unsplash.com/photo-1622547748225-3fc4abd2cca0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHNpbXBsZXxlbnwwfHwwfHw%3D&w=1000&q=80');
+}
